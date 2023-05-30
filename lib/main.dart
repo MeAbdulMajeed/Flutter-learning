@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:sample/Screens/home.dart';
 import 'package:sample/Screens/login_page.dart';
 
 void main() {
@@ -8,6 +7,12 @@ void main() {
 
 class MyApp extends StatelessWidget {
   // int num = 5;
+  // String name = "john";
+  // final int dob = 1;
+  // final String nam = "Joe";
+  // bool on = true;
+  //  static const pi = 3.14;
+  // double date = 1989;
   @override
   // this is our build method that is building our application
   // this method override the work we do
